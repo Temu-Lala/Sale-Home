@@ -81,3 +81,6 @@ cd backend
 **## Author**
 
 Temesgen Debebe (lala)
+## License
+
+This project is licensed under the [MIT License](https://github.com/Temu-Lala/Sale-Home/blob/master/LICENSE).
