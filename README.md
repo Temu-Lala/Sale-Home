@@ -34,8 +34,7 @@ HomeSell is a comprehensive web application meticulously designed to streamline 
 **## Getting Started**
 
 1. **Clone the repository:**
-   ```bash
-https://github.com/Temu-Lala/Sale-Home.git
+   ```bash https://github.com/Temu-Lala/Sale-Home.git
 ```
 
 2. **Navigate to the backend directory:**
