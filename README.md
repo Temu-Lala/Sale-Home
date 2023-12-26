@@ -39,9 +39,11 @@ HomeSell is a comprehensive web application meticulously designed to streamline 
 ```
 
 2. **Navigate to the backend directory:**
+
    ```bash
-   cd backend
-   ```
+
+cd backend
+```
 
 3. **Install dependencies:**
    ```bash
