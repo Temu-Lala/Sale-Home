@@ -1,4 +1,4 @@
-**# First cheack the screenshoot **
+## First cheack the screenshoot **
 
 **# HomeSell: Efficiently Manage and Sell Homes with Ease**
 
